@@ -1,4 +1,4 @@
-# Game__Freeway_Atari
+# Game_Freeway_Atari
  Projeto clone do game classico Freeway do Atari (1981). Desenvolvido usando animações, controles, sons e placar em JavaScript
 
 ## Conhecimentos adquiridos nesse projeto:
